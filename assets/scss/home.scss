@@ -1,0 +1,91 @@
+header{
+    .navbar{
+        background-color: rgb(255, 86, 25) !important;
+        padding-left: 200px;
+        .navbar-brand{
+            color: white;
+        }
+        .nav-link{
+            color: white !important;
+        }
+        .right{
+            margin-left: -100px;
+            li{
+                display: inline-block;
+                a{
+                    color: white;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
+
+.MG{
+    margin-top: 50px;
+    .row{
+        .col-md-3{
+            a{
+                text-decoration: none;
+                color: black;
+                font-size: 20px;
+            }
+            img{
+                width: 300px;
+            }
+            input{
+                border-color: orangered;
+            }
+            input:hover{
+                border-color: orangered;
+            }
+            h2{
+                color: orangered;
+            }
+        }
+    }
+}
+
+.slider{
+    img{
+        max-width: 100%;
+    }
+}
+
+.slider-2{
+    margin-top: 100px;
+    border: 1px black solid;
+    width: 70%;
+    margin-left: 17%;
+}
+
+.offers{
+    margin-top: 50px;
+    h1{
+        border: 1px black solid;
+        width: 70%;
+        font-size: 30px;
+    }
+    .offer{
+        border: 1px black solid;
+        width: 70%;
+        img{
+            width: 300px;
+            display: inline-block;
+        }
+        p{
+            display: inline-block;
+        }
+    }
+    
+    .col-md-4{
+        img{
+            width: 200px;
+        }
+    }
+}
+
+.products{
+    margin-left: 200px;
+    margin-top: 90px;
+}

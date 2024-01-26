@@ -1,0 +1,96 @@
+header .navbar {
+  background-color: #ff5619 !important;
+  padding-left: 200px;
+}
+
+header .navbar .navbar-brand {
+  color: white;
+}
+
+header .navbar .nav-link {
+  color: white !important;
+}
+
+header .navbar .right {
+  margin-left: -100px;
+}
+
+header .navbar .right li {
+  display: inline-block;
+}
+
+header .navbar .right li a {
+  color: white;
+  text-decoration: none;
+}
+
+.MG {
+  margin-top: 50px;
+}
+
+.MG .row .col-md-3 a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.MG .row .col-md-3 img {
+  width: 300px;
+}
+
+.MG .row .col-md-3 input {
+  border-color: orangered;
+}
+
+.MG .row .col-md-3 input:hover {
+  border-color: orangered;
+}
+
+.MG .row .col-md-3 h2 {
+  color: orangered;
+}
+
+.slider img {
+  max-width: 100%;
+}
+
+.slider-2 {
+  margin-top: 100px;
+  border: 1px black solid;
+  width: 70%;
+  margin-left: 17%;
+}
+
+.offers {
+  margin-top: 50px;
+}
+
+.offers h1 {
+  border: 1px black solid;
+  width: 70%;
+  font-size: 30px;
+}
+
+.offers .offer {
+  border: 1px black solid;
+  width: 70%;
+}
+
+.offers .offer img {
+  width: 300px;
+  display: inline-block;
+}
+
+.offers .offer p {
+  display: inline-block;
+}
+
+.offers .col-md-4 img {
+  width: 200px;
+}
+
+.products {
+  margin-left: 200px;
+  margin-top: 90px;
+}
+/*# sourceMappingURL=home.css.map */
