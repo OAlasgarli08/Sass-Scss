@@ -93,4 +93,12 @@ header .navbar .right li a {
   margin-left: 200px;
   margin-top: 90px;
 }
+
+.reklam .container .row .col-md-4 img {
+  width: 90%;
+}
+
+.reklam .container .row .col-md-8 img {
+  width: 90%;
+}
 /*# sourceMappingURL=home.css.map */
